@@ -6,24 +6,31 @@ This repo is designed for people who want to build a stronger first-principles u
 
 ## What this repo covers
 
-The notebooks focus on practical foundations such as:
+The notebooks focus on practical machine learning foundations through implementation, including:
 
 - Python and NumPy fluency
 - dataset inspection and summary statistics
 - mean, variance, and standardisation
 - train/test splitting
-- simple helper functions used in ML workflows
 - shape-checking and debugging habits
+- simple helper functions used in ML workflows
+- linear regression from first principles
+- prediction, residuals, and Mean Squared Error (MSE)
+- gradient descent intuition and manual optimisation
 - core modelling intuition
 
-Over time, this repo may expand to include:
+As the series develops, later notebooks will expand into:
 
-- linear regression
-- logistic regression
-- PyTorch training loops
-- regularisation and validation
+- logistic regression and binary classification
+- PyTorch tensors, modules, and training loops
+- overfitting, regularisation, and validation
+- data pipelines and batching
+- multilayer perceptrons (MLPs)
 - representation learning basics
-- sequence modelling and dynamics prediction
+- autoencoders and latent representations
+- sequence modelling fundamentals
+- next-step prediction and dynamics modelling
+- world model intuition for embodied AI
 
 ## How to use this repo
 
